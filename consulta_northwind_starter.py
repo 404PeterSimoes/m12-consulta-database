@@ -42,7 +42,7 @@ class Produto:
 # Código principal
 if __name__ == "__main__":
     # Substituir pelo caminho real da vossa base de dados
-    caminho_bd = r"E:\Tempi\Database1.accdb"
+    caminho_bd = r"Database1.accdb"
 
     bd = BaseDadosAccess(caminho_bd)
 
